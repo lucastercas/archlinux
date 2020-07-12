@@ -1,0 +1,24 @@
+configuration {
+  display-drun: "Apps";
+  display-window: "Window";
+  show-icons: true;
+  combi-modi: "window,drun";
+
+  modi: "combi";
+  terminal: "kitty";
+  theme: "/usr/share/rofi/themes/gruvbox-dark.rasi";
+}
+
+* {
+  lines: 15;
+  collumns: 1;
+  font: "hack 11";
+}
+
+#window {
+  border: 0;
+  border-radius: 4px;
+  padding: 30;
+  width: 60%;
+  height: 60%;
+}

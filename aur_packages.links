@@ -1,0 +1,7 @@
+# Yaourt
+# url https://aur.archlinux.org/yaourt.git
+# --Deps-- #
+url https://aur.archlinux.org/package-query.git
+
+# Paper icon theme
+# url https://aur.archlinux.org/paper-icon-theme-git.git
