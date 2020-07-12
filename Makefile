@@ -1,7 +1,7 @@
 .PHONY: build clean
 
 build:
-	sudo ./build.sh -v
+	@sudo ./build.sh -v
 
 clean:
-	sudo rm -rf work out AUR_BUILDER
+	@sudo rm -rf work out AUR_BUILDER
